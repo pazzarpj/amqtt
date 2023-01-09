@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "amqtt"
-version = "0.10.0"
+name = "amqtt-pazzarpj"
+version = "0.10.1.dev"
 description = "MQTT client/broker using Python asyncio"
 authors = ["aMQTT Contributers"]
 license = "MIT"
-homepage = "https://github.com/Yakifo/amqtt"
+homepage = "https://github.com/pazzarpj/amqtt"
 classifiers = [
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
